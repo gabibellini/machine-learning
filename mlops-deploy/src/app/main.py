@@ -6,7 +6,7 @@ import pickle
 import os
 
 # carregando o modelo
-modelo = pickle.load(open('../../models/modelo.sav', 'rb'))
+modelo = pickle.load(open('models/modelo.sav', 'rb'))
 colunas = ['tamanho', 'ano', 'garagem']
 
 # autenticação com variável do ambiente
