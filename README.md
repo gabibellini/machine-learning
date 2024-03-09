@@ -12,4 +12,9 @@
 6. Validação de modelos
 7. Otimização com hiperparâmetros
 8. Otimização com exploração
+9. Validação de modelos
+10. Sistemas de recomendação
+11. Classificação multilabel de textos
+12. Modelos preditivos - detecção de fraude
+13. Clusterização de clientes
 
